@@ -8598,13 +8598,13 @@ __metadata:
   linkType: hard
 
 "fast-xml-parser@npm:^5.0.7":
-  version: 5.2.0
-  resolution: "fast-xml-parser@npm:5.2.0"
+  version: 5.3.6
+  resolution: "fast-xml-parser@npm:5.3.6"
   dependencies:
-    strnum: "npm:^2.0.5"
+    strnum: "npm:^2.1.2"
   bin:
     fxparser: src/cli/cli.js
-  checksum: 10/cd0380f65e49291ae89e6b95b6ee3ac9f6e97192eef78211b94a1cc85d6c6b35e001e0b7397513381cf3600ee31aca9ac8252de47edfe116b85bfdc90db15b1d
+  checksum: 10/03527ab0bdf49d960fdc8f6088cd0715c052e06b68b39459da87b1a1fbb3439a855b2d83cbf3c400e983b8e668b396296b072a4dd5c63403cf1e618c9326b6df
   languageName: node
   linkType: hard
 
@@ -15234,10 +15234,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"strnum@npm:^2.0.5":
-  version: 2.0.5
-  resolution: "strnum@npm:2.0.5"
-  checksum: 10/5a9939e395dcf3f2ce0c4741c454b0e8c6492a395a6115edee287671f5c339126e2d2bddaeba757900a4a32b680ca5532bdba350514dc3770a5165b1dd5ac145
+"strnum@npm:^2.1.2":
+  version: 2.1.2
+  resolution: "strnum@npm:2.1.2"
+  checksum: 10/7d894dff385e3a5c5b29c012cf0a7ea7962a92c6a299383c3d6db945ad2b6f3e770511356a9774dbd54444c56af1dc7c435dad6466c47293c48173274dd6c631
   languageName: node
   linkType: hard
 
