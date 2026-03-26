@@ -1482,7 +1482,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node": "backstage:^"
     "@backstage/plugin-scaffolder-node-test-utils": "backstage:^"
     azure-devops-node-api: "npm:^14.1.0"
-    yaml: "npm:^2.6.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -1496,7 +1496,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node-test-utils": "backstage:^"
     "@types/fs-extra": "npm:^11"
     fs-extra: "npm:^11.3.0"
-    yaml: "npm:^2.6.0"
+    yaml: "npm:^2.8.3"
     zod: "npm:^3.24.3"
   languageName: unknown
   linkType: soft
@@ -31344,12 +31344,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml@npm:^2.0.0, yaml@npm:^2.0.0-10, yaml@npm:^2.2.1, yaml@npm:^2.2.2, yaml@npm:^2.6.0":
+"yaml@npm:^2.0.0, yaml@npm:^2.0.0-10, yaml@npm:^2.2.1, yaml@npm:^2.2.2":
   version: 2.6.0
   resolution: "yaml@npm:2.6.0"
   bin:
     yaml: bin.mjs
   checksum: 10/f4369f667c7626c216ea81b5840fe9b530cdae4cff2d84d166ec1239e54bf332dbfac4a71bf60d121f8e85e175364a4e280a520292269b6cf9d074368309adf9
+  languageName: node
+  linkType: hard
+
+"yaml@npm:^2.8.3":
+  version: 2.8.3
+  resolution: "yaml@npm:2.8.3"
+  bin:
+    yaml: bin.mjs
+  checksum: 10/ecad41d39d34fae5cc17ea2d4b7f7f55faacd45cbce8983ba22d48d1ed1a92ed242ea49ea813a79ac39a69f75f9c5a03e7b5395fd954d55476f25e21a47c141d
   languageName: node
   linkType: hard
 
