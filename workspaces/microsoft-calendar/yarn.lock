@@ -373,7 +373,7 @@ __metadata:
     "@types/react": "npm:^16.13.1 || ^17.0.0 || ^18.0.0"
     "@types/react-dom": "npm:^18.2.19"
     classnames: "npm:^2.3.1"
-    dompurify: "npm:^3.0.0"
+    dompurify: "npm:^3.4.9"
     lodash: "npm:^4.17.21"
     luxon: "npm:^3.0.0"
     material-ui-popup-state: "npm:^1.9.3"
@@ -9944,15 +9944,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^3.0.0":
-  version: 3.2.4
-  resolution: "dompurify@npm:3.2.4"
+"dompurify@npm:^3.4.9":
+  version: 3.4.9
+  resolution: "dompurify@npm:3.4.9"
   dependencies:
     "@types/trusted-types": "npm:^2.0.7"
   dependenciesMeta:
     "@types/trusted-types":
       optional: true
-  checksum: 10/98570c53385518a2f9b617f796926338856acfdd3369c88b5905bddf96bd7d391bf8a5433127155e0046e6faa2bfb767185fcd571b865dfabe624c099e2537f5
+  checksum: 10/2d651dcf413646e4a66202b424eade1f2a793fb22fe83dcb5a0800349ad879344fd92e76fd494ef06fb10ecb051660207844e7900156cef3e61942fdac405aa0
   languageName: node
   linkType: hard
 
