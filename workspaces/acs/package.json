@@ -46,7 +46,7 @@
     "@backstage/plugin-catalog-backend": "^2.1.0",
     "@backstage/plugin-catalog-backend-module-logs": "^0.1.11",
     "@backstage/plugin-catalog-backend-module-scaffolder-entity-model": "^0.2.9",
-    "@backstage/plugin-catalog-backend-module-unprocessed": "^0.6.1",
+    "@backstage/plugin-catalog-backend-module-unprocessed": "^0.6.11",
     "@backstage/plugin-scaffolder": "^1.32.0",
     "@backstage/plugin-scaffolder-backend": "^2.1.1",
     "@backstage/repo-tools": "^0.14.0",
