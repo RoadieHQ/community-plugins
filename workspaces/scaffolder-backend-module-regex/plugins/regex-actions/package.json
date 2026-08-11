@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@backstage/backend-plugin-api": "^1.5.0",
-    "@backstage/plugin-scaffolder-node": "^0.12.1",
+    "@backstage/plugin-scaffolder-node": "^0.12.3",
     "yaml": "^2.3.3"
   },
   "devDependencies": {
